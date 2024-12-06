@@ -1,4 +1,7 @@
 # SR-FLIPFLOP-USING-CASE
+Developed by: M.Harshith
+
+RegisterNumber: 24010969
 
 **AIM:**
 
